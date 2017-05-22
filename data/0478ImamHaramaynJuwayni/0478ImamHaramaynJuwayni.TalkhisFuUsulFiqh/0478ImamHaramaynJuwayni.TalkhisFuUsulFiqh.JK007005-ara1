@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_007005
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: أبو المعالي الجويني
-#NewRec# 010.AuthorNAME	:: أبو المعالي عبد الملك بن عبد الله بن يوسف الجويني
-#NewRec# 011.AuthorBORN	:: 419هـ
-#NewRec# 011.AuthorDIED	:: 478
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: كتاب التلخيص في أصول الفقه
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: أصول الفقه :: الكتب الجامعة لأصول الفقه :: كتب أصول الفقه الإسلامي
-#NewRec# 022.BookVOLS	:: 3
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: التلخيص في أصول الفقه
-#NewRec# 030.LibURI	:: JK_007005
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: عبد الله جولم النبالي وبشير أحمد العمري
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار البشائر الإسلامية
-#NewRec# 044.EdPLACE	:: بيروت
-#NewRec# 045.EdYEAR	:: 1417هـ- 1996م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_007005
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: أبو المعالي الجويني
+#META# 010.AuthorNAME	:: أبو المعالي عبد الملك بن عبد الله بن يوسف الجويني
+#META# 011.AuthorBORN	:: 419هـ
+#META# 011.AuthorDIED	:: 478
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: كتاب التلخيص في أصول الفقه
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: أصول الفقه :: الكتب الجامعة لأصول الفقه :: كتب أصول الفقه الإسلامي
+#META# 022.BookVOLS	:: 3
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: التلخيص في أصول الفقه
+#META# 030.LibURI	:: JK_007005
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: عبد الله جولم النبالي وبشير أحمد العمري
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار البشائر الإسلامية
+#META# 044.EdPLACE	:: بيروت
+#META# 045.EdYEAR	:: 1417هـ- 1996م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 

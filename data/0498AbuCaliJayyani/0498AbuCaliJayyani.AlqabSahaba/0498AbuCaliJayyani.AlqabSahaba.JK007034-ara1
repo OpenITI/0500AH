@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_007034
-#NewRec# 000.BookURI	:: #0498.AbuCaliJayyani.AlqabSahaba
-#NewRec# 010.AuthorAKA	:: أبو علي الحسين بن محمد بن أحمد الجبائي الأندلسي
-#NewRec# 010.AuthorNAME	:: أبي علي الحسين بن محمد بن أحمد الجبائي الأندلسي
-#NewRec# 011.AuthorBORN	:: 427هـ
-#NewRec# 011.AuthorDIED	:: 498
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: ألقاب الصحابة و التابعين في المسندين الصحيحين
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: كتب الحديث النبوي الشريف وتراجم الرواة :: كتب الطبقات
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: ألقاب الصحابة والتابعين في المسندين الصحيحين
-#NewRec# 030.LibURI	:: JK_007034
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: د محمد زينهم محمد عزب + محمود نصار
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار الفضيلة
-#NewRec# 044.EdPLACE	:: القاهرة - مصر
-#NewRec# 045.EdYEAR	:: 1994م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_007034
+#META# 000.BookURI	:: #0498.AbuCaliJayyani.AlqabSahaba
+#META# 010.AuthorAKA	:: أبو علي الحسين بن محمد بن أحمد الجبائي الأندلسي
+#META# 010.AuthorNAME	:: أبي علي الحسين بن محمد بن أحمد الجبائي الأندلسي
+#META# 011.AuthorBORN	:: 427هـ
+#META# 011.AuthorDIED	:: 498
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: ألقاب الصحابة و التابعين في المسندين الصحيحين
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب الحديث النبوي الشريف وتراجم الرواة :: كتب الطبقات
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: ألقاب الصحابة والتابعين في المسندين الصحيحين
+#META# 030.LibURI	:: JK_007034
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: د محمد زينهم محمد عزب + محمود نصار
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار الفضيلة
+#META# 044.EdPLACE	:: القاهرة - مصر
+#META# 045.EdYEAR	:: 1994م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
