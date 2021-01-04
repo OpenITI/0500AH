@@ -5,8 +5,9 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/957053160
 80#VERS#LINKS####: https://ia801305.us.archive.org/23/items/massalik-
     mamalik-bakry/massalik-mamalik-bakry.pdf
-90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- Page 472 is a picture. 2- The last lines of the
+90#VERS#ANNOTATOR: HRH, Gowaart Van Den Bossche
+90#VERS#COMMENT##: Validation: Gowaart deleted editorial sections, footnote markers. Tagged poetry and improved text formatting.
+	HRH: 1- Page 472 is a picture. 2- The last lines of the
     text (page 915) are missing.
 90#VERS#DATE#####: 2020-05-16
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, MISSING_PARTS, HTML_TAGS
+90#VERS#ISSUES###: MISSING_PARTS
