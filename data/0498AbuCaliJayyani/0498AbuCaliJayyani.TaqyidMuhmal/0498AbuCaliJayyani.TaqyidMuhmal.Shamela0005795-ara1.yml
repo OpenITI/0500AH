@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://k-tb.com/book/hadeeth2087-تقييد-المهمل-وتمييز-المشكل-ط-المغرب
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: A very awkward text for tagging: The text does not have any title (and the descriptive table of contents in the first volume cannot be used for tagging). There are some baabs (“باب”), but they are not even bold and in many cases they appear in the midst of sentences. I categorized the text as far as I could understand the structure of the text.  2- Find a manuscript of the text here: https://books-library.online/free-596285029-download
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-17
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
