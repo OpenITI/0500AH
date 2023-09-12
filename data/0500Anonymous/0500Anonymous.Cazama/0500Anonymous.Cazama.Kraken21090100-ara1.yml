@@ -6,7 +6,7 @@
 80#VERS#LINKS####: 
 90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: OCRed through Kraken version 2.0.8;
-        04-01-2021_ArabPersGeneralized.mlmodel; default segmenter;
+    04-01-2021_ArabPersGeneralized.mlmodel; default segmenter;
       text corresponds to transcriptions made by Wim Raven from mss
       and published at https://kitabalazama.wordpress.com/category/introstudy/
       missing parts; for further information on the Kitāb al-ʿaẓama,
@@ -14,5 +14,7 @@
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0500AH/pre-clean/data/0500Anonymous/0500Anonymous.Cazama/0500Anonymous.Cazama.Kraken21090100-ara1
 90#VERS#DATE#####: 2021-09-01
 90#VERS#ISSUES###: UNCORRECTED_OCR, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION
