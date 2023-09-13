@@ -2,7 +2,7 @@
 00#VERS#LENGTH###: 33387
 00#VERS#URI######: 0500AbuNasrMaqdisi.LataifWaZaraif.Shamela0010509-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770900670
-80#VERS#COLLATED#:
+80#VERS#COLLATED#: 
 80#VERS#LINKS####: https://archive.org/details/zad27
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Could not locate a pdf of edition used for the
@@ -40,5 +40,10 @@
     edition
     of the text is also accessible here: https://archive.org/details/999Pdf
     NB: check lines of poetry that seem too long: line numbers 1590
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0500AH/pre-clean/data/0500AbuNasrMaqdisi/0500AbuNasrMaqdisi.LataifWaZaraif/0500AbuNasrMaqdisi.LataifWaZaraif.Shamela0010509-ara1.mARkdown
 90#VERS#DATE#####: 2019-10-22
-90#VERS#ISSUES###: MORE_THAN_ONE_TEXT
+90#VERS#ISSUES###: MORE_THAN_ONE_TEXT, PRIMARY_VERSION, CLEANED_VERSION

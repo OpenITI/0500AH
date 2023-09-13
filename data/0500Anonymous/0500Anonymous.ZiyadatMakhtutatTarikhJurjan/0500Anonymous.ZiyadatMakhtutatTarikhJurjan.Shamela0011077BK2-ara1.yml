@@ -32,5 +32,10 @@
     And on p. 517, the editor remarks: "Kitāb Tārīkh Jurjān khutima fī ṣafḥa
     504 - wa-lākin kāna fī al-nuskha al-aṣl ziyādāt mufīda laysat min al-kitāb
     wa-lidhā athbatnāhā fī al-ākhir min ṣafḥat 505 - 517".
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0500AH/pre-clean/data/0500Anonymous/0500Anonymous.ZiyadatMakhtutatTarikhJurjan/0500Anonymous.ZiyadatMakhtutatTarikhJurjan.Shamela0011077BK2-ara1.mARkdown
 90#VERS#DATE#####: 2019-09-30
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
