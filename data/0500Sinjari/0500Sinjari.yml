@@ -13,10 +13,11 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: "Abū Ḥusayn al-Sinjārī (ﬂ. ca. 1100) (...)
-    Very little is known about this commentator, 
+    Very little is known about this commentator,
     whose name is sometimes also rendered as al-Shajarī"
     (Elaine Van Dalen, "Pediatrics in Medieval Islamic Theoria",
-    Journal of the American Oriental Society 140.1 (2020), 2. 
+    Journal of the American Oriental Society 140.1 (2020), 2.
     https://www.academia.edu/42820719/Pediatrics_in_Medieval_Islamic_Theoria)
